@@ -1,2 +1,1 @@
-# project_1
-Source code
+hello mọi người nhá
